@@ -1,2 +1,5 @@
 module Main where
-main = putStrLn "Hello World!"
+a = putStrLn("first")
+b = putStrLn("second")
+main = do a
+          b
