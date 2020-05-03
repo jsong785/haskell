@@ -1,5 +1,3 @@
-import Data.List
-
 ifEvenAdd :: [(Int, Int)] -> [Int]
 ifEvenAdd l
     | length l == 0 = [1, 2, 3 , 4]
